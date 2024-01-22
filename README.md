@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/ScCvLx8Gavebd76io4iqIm7oTcTmpP8jE5O6mBTP6G0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/NTg4MTgxOTMyL2Uz/NmVjNjc4LTc5ODQt/NGNkZC04ZTRjLWEz/OTMyNzcyZmY4ZQ)
+
 <h1 align="center">Hi 👋, I'm Soham Deshmukh</h1>
 <h3 align="center">Just a Programmer with imagination</h3>
 <img align="right" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
