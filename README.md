@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h3 align="center">Just a Programmer with imagination</h3>
 <br>
-<img align="right" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
+<img align="right" width="300" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 <br>
   <li>🔭 I’m currently working on Websites<br></li>
   <br>
@@ -17,6 +17,5 @@
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=gamerzunite&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamerzunite&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
