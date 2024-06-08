@@ -1,7 +1,7 @@
 
 <h1 align="center">Just a Developer</h1>
 
-<h3 align="left">Working on  - <br>1] Learning Next.js<br>2] Mongo<br>3] Getting My own Portfolio</h3>
+<h3 align="left">Working on  - <br>1] Currently Doing MERN<br><br>2] Getting My own Portfolio up Soon</h3>
 
 <br clear="both">
 <h2 align="left">💻 Tech Stack:</h2>
@@ -23,6 +23,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </div>
 
 ##
@@ -58,4 +64,3 @@
 </p>
 
 ###
-
