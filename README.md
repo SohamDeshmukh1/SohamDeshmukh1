@@ -1,7 +1,7 @@
 
 <h1 align="center">Just a Developer</h1>
 
-<h3 align="left">Working on  - <br>1] Currently Doing MERN<br><br>2] Getting My own Portfolio up Soon</h3>
+<h3 align="left">Working on  - <br>1] Currently Doing MERN<br>2] Getting My own Portfolio up Soon</h3>
 
 <br clear="both">
 <h2 align="left">💻 Tech Stack:</h2>
