@@ -1,7 +1,7 @@
 
 <h1 align="center">Just a Developer</h1>
 
-<h3 align="left">Working on  - <br>1] Using Knowledge <br>2] Handling Clients <br>4] Self Learning (Its Hard to do it) </h3>
+<h3 align="left">Working on  - <br>1] Chess Engine <br>2] 6DOF Robotic Arm <br>4] Self Learning (Its Hard to do it) </h3>
 
 <br clear="both">
 <h2 align="left">💻 Tech Stack:</h2>
