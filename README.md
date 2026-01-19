@@ -2,9 +2,9 @@
 <h1 align="center">Just a Developer</h1>
 
 <h3 align="left">Working on  - <br>1] Chess Engine <br>2] 6DOF Robotic Arm <br>4] Self Learning (Its Hard to do it) </h3>
-
+<!--
 <br clear="both">
-<!-- <h2 align="left">💻 Tech Stack:</h2>
+ <h2 align="left">💻 Tech Stack:</h2>
 <div align="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -33,9 +33,7 @@
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" /> -->
 <!--   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /> 
-</div>-->
-
-##
+</div>
 <h2 align="left">Social Media</h2>
 <div align="">
   <a href="https://www.linkedin.com/in/soham-deshmukh-984079299/" target="_blank">
@@ -47,7 +45,7 @@
   <a href="https://www.instagram.com/sohamdeshmukh_07/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</div>
+</div> -->
 
 #
 <h2 align="left">📊 GitHub Stats:</h2>
